@@ -184,3 +184,7 @@ add_chapter (30_multisampling
 add_chapter (31_compute_shader
   SHADER 31_shader_compute
   LIBS glm::glm)
+
+add_chapter (32_nv12_texture_mapping
+  SHADER 26_shader_textures
+  LIBS glm::glm)
